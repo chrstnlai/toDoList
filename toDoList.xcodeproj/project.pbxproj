@@ -48,7 +48,6 @@
 		BDAEFD3C28821F340064AAD1 = {
 			isa = PBXGroup;
 			children = (
-				BD10C42B288616FE0039BEB0 /* CompleteToDoViewController.swift */,
 				BDAEFD4728821F340064AAD1 /* toDoList */,
 				BDAEFD4628821F340064AAD1 /* Products */,
 			);
@@ -69,6 +68,7 @@
 				BDAEFD4A28821F340064AAD1 /* SceneDelegate.swift */,
 				BD10C4292885C9C60039BEB0 /* AddToDoViewController.swift */,
 				BDAEFD4E28821F340064AAD1 /* Main.storyboard */,
+				BD10C42B288616FE0039BEB0 /* CompleteToDoViewController.swift */,
 				BDAEFD61288224F90064AAD1 /* ToDo.swift */,
 				BDAEFD5F288223650064AAD1 /* ToDoTableViewController.swift */,
 				BDAEFD5428821F370064AAD1 /* Assets.xcassets */,
